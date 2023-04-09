@@ -1,5 +1,7 @@
 # Median Income in Canada vs Family Type
 
+![alt text](https://github.com/asharahmed/income-inequality-visualization/blob/main/screenshot.png?raw=true)
+
 This Python code reads in data from a CSV file and filters it to keep only relevant rows. It then pivots the DataFrame to put the years in columns, and plots the data using a bar chart.
 
 ## Requirements

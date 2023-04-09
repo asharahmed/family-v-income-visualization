@@ -1,4 +1,4 @@
-# Median Income in Canada vs Family Type
+# Median Income in Canada vs Family Type Visualization
 
 ![alt text](https://github.com/asharahmed/income-inequality-visualization/blob/main/screenshot.png?raw=true)
 

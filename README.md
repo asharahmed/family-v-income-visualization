@@ -5,8 +5,8 @@
 This Python code reads in data from a CSV file and filters it to keep only relevant rows. It then pivots the DataFrame to put the years in columns, and plots the data using a bar chart.
 
 ## Requirements
-- pandas
-- matplotlib
+- `pandas`
+- `matplotlib`
 
 ## Usage
 1. Install the required libraries using pip:

@@ -10,7 +10,7 @@ This Python code reads in data from a CSV file and filters it to keep only relev
 
 ## Usage
 1. Install the required libraries using pip:
-`pip install pandas matplotlib`
+`pip install pandas matplotlib`, or `pip install -r requirements.txt`
 2. Save the `income_data.csv` file in the same directory as the Python code.
 3. Run the code using your preferred Python environment.
 
